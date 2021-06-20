@@ -1,0 +1,4 @@
+{
+  "prettier.useEditorConfig": true,
+  "python.linting.enabled": false
+}
